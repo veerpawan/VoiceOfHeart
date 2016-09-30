@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <color name="black">#000</color>
+    <color name="blue">#700505</color>
+    <color name="white">#FFF</color>
+    <color name="tab">#e9c308</color>
+    <color name="red">#fa0414</color>
+    <color name="darkblue">#260774</color>
+    <color name="splashcolor">#360611</color>
+
+
+
+    <color name="light_font">#ffffff</color>
+    <color name="grey_font">#c2c0c0</color>
+    <color name="text_shadow">#b4180101</color>
+    <color name="text_shadow_white">#FFFFFF</color>
+
+
+</resources>
